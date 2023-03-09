@@ -1,0 +1,13 @@
+1098290=DOOM Eternal
+1098291=DOOM Eternal - Year One Pass
+1098292=DOOM Eternal - The Ancient Gods - Part One Cosmic DLC
+1098293=DOOM Eternal - The Ancient Gods - Part Two
+1098300=DOOM Eternal - Pre Order Bonuses (DOOM Eternal: The Rip and Tear Pack)
+1098301=DOOM Eternal - Deluxe Edition Content
+1460020=DOOM Eternal - Series One Cosmetic Pack
+1460021=DOOM Eternal - Micorn Master Collection Cosmetic Pack
+1626000=DOOM Eternal - Series Two Cosmetic Pack
+1626001=DOOM Eternal - Series Three Cosmetic Pack
+1626002=DOOM Eternal - Mullet Slayer Master Collection Cosmetic Pack
+1626003=DOOM Eternal - Cosplay Slayer Master Collection Cosmetic Pack
+1749100=DOOM Eternal - Series Four Cosmetic Pack
